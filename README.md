@@ -18,8 +18,8 @@
 
 This data analysis aims to provide understanding on the intricacies of the data on sales perfomance of an online retail store. By analyzing various aspects of the data, we seek to understand customer trends and behavior, drive targeted marketing efforts and to enhance business strategies through comprehensive analysis to make informed decisions and generate meaningful insights and recommendations.
 
+![Column Chart](https://github.com/trustebunu/online-store-analysis/assets/112251584/d8afafe2-9be9-457a-8681-97e3d844965a)
 
-![Screenshot (5)](https://github.com/trustebunu/online-store-analysis/assets/112251584/cab0b2a7-0b04-4248-9811-419691918886)
 
 ## Data sources
 
