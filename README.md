@@ -73,3 +73,8 @@ For the analysis the following formulas were used to:
   
 ## References
 1. [Google](https://www.google.com)
+
+😄
+Thanks for your time
+🤝
+💌
